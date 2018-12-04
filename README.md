@@ -14,4 +14,8 @@ We've got just the right event for you. Put your perspective out there and rende
 
 ![Screenshot of landing page](https://github.com/vinitshahdeo/TeamScoreApp/blob/master/Screenshot.png) 
 
-**See [demo](https://vinitshahdeo.github.io/TeamScoreApp/)**
+> **See [demo](https://vinitshahdeo.github.io/TeamScoreApp/)**
+
+
+[![GitHub license](https://img.shields.io/github/license/vinitshahdeo/TeamScoreApp.svg?style=social)](https://github.com/vinitshahdeo/TeamScoreApp/blob/master/LICENSE.txt) 
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/vinitshahdeo/TeamScoreApp.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fvinitshahdeo%2FTeamScoreApp)
