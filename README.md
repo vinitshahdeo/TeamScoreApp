@@ -6,6 +6,8 @@
 
 > **Made this for TechBlaze - an event by [CodeChef](https://www.facebook.com/codechefvituniversity/) - VIT Chapter**
 
+> **Click [here](https://vinitshahdeo.github.io/TeamScoreApp/) to view demo.**
+
 ### About TechBlaze
 
 Fiercely opinionated when it comes to technology and totally irked by the other side ?
